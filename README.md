@@ -1,4 +1,4 @@
-## 摘要
+##  摘要
 分析验证码素材图片混淆原理，并采用selenium模拟人拖动滑块过程，进而破解验证码。
 ## 人工验证的过程
 1. 打开威锋网注册页面（https://passport.feng.com/?r=user/register）
